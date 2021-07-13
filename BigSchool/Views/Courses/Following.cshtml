@@ -1,0 +1,23 @@
+﻿@model IEnumerable<BigSchool.Models.ApplicationUser>
+
+@{
+    ViewBag.Title = "Following";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Following</h2>
+
+<div class="course">
+    @foreach (var user in Model)
+    {
+        
+        <div>
+            <p>
+                Giảng viên đang theo dõi: @user.Name 
+            </p>
+            <p>
+                @user.Email
+            </p>            
+        </div>
+    }
+</div>
