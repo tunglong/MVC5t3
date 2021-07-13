@@ -34,3 +34,49 @@ textarea {
 .navbar-inverse .navbar-brand{
     color: #fff
 }
+
+/*Course Layout*/
+.course {
+    list-style: none;
+    margin-top: 20px;
+}
+    .course > li {
+        position: relative;
+        margin-bottom: 30px;
+    }
+        .course > li .date {
+            text-align: center;
+            background-color: #d41d50;
+            color: white;
+            width: 60px;
+            border-radius: 5px;
+        }
+
+        .course > li .details {
+            position: absolute;
+            top: 7px;
+            left: 70px;
+            margin: -10px;
+            margin-left: 1px;
+        }
+
+        .course > li > div > .btn-default {
+            color: #eeeeee;
+            background-color: #31708f;
+            border-radius: 7px;
+            padding: 0px 7px;
+        }
+
+            .course > li > div > .btn-default:hover {
+                color: black;
+                background-color: white;
+            }
+
+.course > li .action{
+    display: none;
+    left: 70px;
+    position: absolute;
+}
+.course > li:hover .action{
+    display: block;
+}

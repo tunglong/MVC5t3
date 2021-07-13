@@ -111,3 +111,14 @@ C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\
 C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.FixCreateTableCourse.resources
 C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\bin\System.Web.Http.dll
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\bin\System.Web.Http.xml
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingTable.resources
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.FixEror.resources
+C:\Users\maitu\OneDrive\Documents\LTWeb(TH)\Buoi3\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.addIsCancledColumnToCourse.resources
